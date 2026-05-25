@@ -125,8 +125,12 @@ SQL Analysis
 
 • Top Banks by Fraud Cases
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Arman Khan
 
 Aspiring Data Analyst | SQL | Power BI | Python | Machine Learning
+
+# 📊 Dashboard Preview
+
+![Dashboard Preview]()
