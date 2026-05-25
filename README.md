@@ -133,4 +133,4 @@ Aspiring Data Analyst | SQL | Power BI | Python | Machine Learning
 
 # 📊 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/michaelstern25/Financial-Fraud-Detection-System/blob/main/Dashboard.jpeg)
